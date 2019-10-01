@@ -13003,11 +13003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jay\\Desktop\\5_CPA_Term\\4.PROG3170-Programming  Distributed Applications Development\\Assignment1\\UtunesAPI\\UtunesAPI\\UtunesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Jay\\Desktop\\5_CPA_Term\\4.PROG3170-Programming  Distributed Applications Development\\Assignment2\\Utunes\\UtunesAPI\\UtunesAPI\\UtunesAPI.csproj",
       "projectName": "UtunesAPI",
-      "projectPath": "C:\\Users\\Jay\\Desktop\\5_CPA_Term\\4.PROG3170-Programming  Distributed Applications Development\\Assignment1\\UtunesAPI\\UtunesAPI\\UtunesAPI.csproj",
+      "projectPath": "C:\\Users\\Jay\\Desktop\\5_CPA_Term\\4.PROG3170-Programming  Distributed Applications Development\\Assignment2\\Utunes\\UtunesAPI\\UtunesAPI\\UtunesAPI.csproj",
       "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jay\\Desktop\\5_CPA_Term\\4.PROG3170-Programming  Distributed Applications Development\\Assignment1\\UtunesAPI\\UtunesAPI\\obj\\",
+      "outputPath": "C:\\Users\\Jay\\Desktop\\5_CPA_Term\\4.PROG3170-Programming  Distributed Applications Development\\Assignment2\\Utunes\\UtunesAPI\\UtunesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

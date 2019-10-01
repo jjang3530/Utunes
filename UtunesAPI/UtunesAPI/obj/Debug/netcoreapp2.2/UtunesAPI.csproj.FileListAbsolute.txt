@@ -12,3 +12,17 @@ C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications
 C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment1\UtunesAPI\UtunesAPI\bin\Debug\netcoreapp2.2\UtunesAPI.pdb
 C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment1\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.dll
 C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment1\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\bin\Debug\netcoreapp2.2\UtunesAPI.deps.json
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\bin\Debug\netcoreapp2.2\UtunesAPI.runtimeconfig.json
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\bin\Debug\netcoreapp2.2\UtunesAPI.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\bin\Debug\netcoreapp2.2\UtunesAPI.dll
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\bin\Debug\netcoreapp2.2\UtunesAPI.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.RazorAssemblyInfo.cache
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.RazorAssemblyInfo.cs
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.AssemblyInfo.cs
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.dll
+C:\Users\Jay\Desktop\5_CPA_Term\4.PROG3170-Programming  Distributed Applications Development\Assignment2\Utunes\UtunesAPI\UtunesAPI\obj\Debug\netcoreapp2.2\UtunesAPI.pdb
